@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ccp-site/static/css/main.a4cc0e34.chunk.css",
+    "main.js": "/ccp-site/static/js/main.ada7f312.chunk.js",
+    "main.js.map": "/ccp-site/static/js/main.ada7f312.chunk.js.map",
+    "runtime-main.js": "/ccp-site/static/js/runtime-main.9f22b079.js",
+    "runtime-main.js.map": "/ccp-site/static/js/runtime-main.9f22b079.js.map",
+    "static/js/2.49701a0e.chunk.js": "/ccp-site/static/js/2.49701a0e.chunk.js",
+    "static/js/2.49701a0e.chunk.js.map": "/ccp-site/static/js/2.49701a0e.chunk.js.map",
+    "static/js/3.a24d8294.chunk.js": "/ccp-site/static/js/3.a24d8294.chunk.js",
+    "static/js/3.a24d8294.chunk.js.map": "/ccp-site/static/js/3.a24d8294.chunk.js.map",
+    "index.html": "/ccp-site/index.html",
+    "static/css/main.a4cc0e34.chunk.css.map": "/ccp-site/static/css/main.a4cc0e34.chunk.css.map",
+    "static/js/2.49701a0e.chunk.js.LICENSE.txt": "/ccp-site/static/js/2.49701a0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f22b079.js",
+    "static/js/2.49701a0e.chunk.js",
+    "static/css/main.a4cc0e34.chunk.css",
+    "static/js/main.ada7f312.chunk.js"
+  ]
+}
